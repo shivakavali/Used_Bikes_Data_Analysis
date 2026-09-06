@@ -63,14 +63,6 @@ The notebook includes:
 - **Matplotlib & Seaborn** - Data visualization
 - **Jupyter Notebook** - Interactive computing environment
 
-## 📈 Key Findings
-
-[Add your key findings here after running the analysis]
-
-- Finding 1
-- Finding 2
-- Finding 3
-
 ## 💡 Use Cases
 
 This analysis can be useful for:
